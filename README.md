@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fahad83
+- 👋 Hi, I’m Fahad Alsamhan
 - 👀 I’m interested in Data Scince
 - 🌱 I’m currently learning Data Scince
 - 💞️ I’m looking to collaborate on Data Scince Projects
